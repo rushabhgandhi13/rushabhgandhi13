@@ -56,27 +56,33 @@
 <h2 align="center"> 🔭Actions </h2>
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabhgandhi13"/>
-</div>
-<div align="center">
-	
-<br>
 	
 ![snake gif](https://github.com/rushabhgandhi13/rushabhgandhi13/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=rushabhgandhi13&theme=github"/>
-</div>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabhgandhi13&show_icons=true&locale=en" alt="rushabhgandhi13" /></p>
+
+
+
 
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/rushabhgandhi13?template=classic"/>
 </div>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabhgandhi13&show_icons=true&locale=en" alt="rushabhgandhi13" /></p>
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabhgandhi13"/>
+	
+</div>
 
+<br>
+
+<div align="center">
+	
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rushabhgandhi13&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 
 
