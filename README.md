@@ -60,6 +60,7 @@
 </div>
 <div align="center">
 	<img src="https://github.com/rushabhgandhi13/rushabhgandhi13/blob/main/github-user-contribution.svg" />
+	![snake gif](https://github.com/rushabhgandhi13/rushabhgandhi13/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <div align="center">
