@@ -34,8 +34,48 @@
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushabhgandhi13&show_icons=true&locale=en&layout=compact" alt="rushabhgandhi13" /></p>
+<h2 align="center"> Visitor's count 👀</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabhgandhi13&show_icons=true&locale=en" alt="rushabhgandhi13" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rushabhgandhi13}/count.svg" alt="rushabhgandhi13 :: Visitor's Count" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabhgandhi13&" alt="rushabhgandhi13" /></p>
+<br>
+
+<h2 align="center"> 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 </h2>
+<p align="center"> 
+  <img src="https://metrics.lecoq.io/rushabhgandhi13?template=classic&base.header=0&gists=1&lines=1" />
+</p>
+
+<br>
+
+<h2 align="center">GitHub Statics</h2>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushabhgandhi13&show_icons=true&theme=monokai&layout=compact" alt="rushabhgandhi13" /></p>
+</div>
+<br>
+
+<h2 align="center"> 🔭Actions </h2>
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rushabhgandhi13"/>
+</div>
+<div align="center">
+	<img src="https://github.com/rushabhgandhi13/rushabhgandhi13/blob/main/github-user-contribution.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=rushabhgandhi13&theme=github"/>
+</div>
+
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/rushabhgandhi13?template=classic"/>
+</div>
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushabhgandhi13&show_icons=true&locale=en" alt="rushabhgandhi13" /></p>
+
+
+
+
+
+
+
