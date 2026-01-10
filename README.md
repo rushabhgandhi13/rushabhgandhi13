@@ -72,12 +72,6 @@
 
 <br>
 
-<div align="center">
-	
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rushabhgandhi13&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
-
 
 
 
