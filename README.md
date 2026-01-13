@@ -23,7 +23,7 @@ I enjoy working across frontend, backend, and applied AI, with a focus on clean 
 
 - **End-to-end full-stack applications** (frontend + backend ownership)
 - **Backend systems** with emphasis on reliability and maintainability
-- **Applied AI & ML** integrated into real products (no hype)
+- **Applied AI & ML** integrated into real products 
 - **Enterprise & academic platforms** (FinTech, EdTech)
 
 ---
